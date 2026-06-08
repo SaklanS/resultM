@@ -1,0 +1,6 @@
+{
+  "name": "NEUB Result Management System",
+  "description": "Academic results management, lookup, and publishing system for North East University Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
